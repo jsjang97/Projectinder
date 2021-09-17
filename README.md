@@ -11,15 +11,18 @@ Please **DO NOT** fork this repo.
 ## Student List
 Will be updated once you add or update your information.
 
-| Name (click for more info)                                            | Currently looking for teammate? |
-| :-------------------------------------------------------------------- | :-----------------------------: |
-| [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)      |            Not sure             |
-| [Angel Hill](https://github.com/OIM3640/Projectinder/issues/3)        |               Yes               |
-| [Jonathan Cavazos](https://github.com/OIM3640/Projectinder/issues/4)  |
-| [Isabella Southard](https://github.com/OIM3640/Projectinder/issues/5) |               Yes               |
-| [Tingxuan Li](https://github.com/OIM3640/Projectinder/issues/6)       |                                 |
-| [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7)         |               Yes               |
-
+| Name (click for more info)                                              | Currently looking for teammate? |
+| :---------------------------------------------------------------------- | :-----------------------------: |
+| [Michael Vanikiotis](https://github.com/OIM3640/Projectinder/issues/11) |               Yes               |
+| [Andrea Baumgartner](https://github.com/OIM3640/Projectinder/issues/10) |               Yes               |
+| [Ziyuan Zhu](https://github.com/OIM3640/Projectinder/issues/9)          |               Yes               |
+| [Brenden Smith](https://github.com/OIM3640/Projectinder/issues/8)       |               Yes               |
+| [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7)           |               Yes               |
+| [Tingxuan Li](https://github.com/OIM3640/Projectinder/issues/6)         |                                 |
+| [Isabella Southard](https://github.com/OIM3640/Projectinder/issues/5)   |               Yes               |
+| [Jonathan Cavazos](https://github.com/OIM3640/Projectinder/issues/4)    |
+| [Angel Hill](https://github.com/OIM3640/Projectinder/issues/3)          |               Yes               |
+| [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        |            Not sure             |
 
 
 *updated: 9/16*

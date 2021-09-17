@@ -1,0 +1,29 @@
+name: Collect-Issues
+on: issues
+
+jobs:
+  collect-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main
+        uses: actions/checkout@v2
+        
+      - name: View issue information
+        run: |
+          echo "Issue title: ${{ github.event.issue.title }}"
+          echo "Issue body: ${{ github.event.issue.body }}"
+        
+        
+      - name: Update Readme
+        run: python ./.github/actions/update_readme.py "${{ github.event.issue.title }}" "${{ github.event.issue.html_url }}" "${{ github.event.issue.body }}"
+#         run: python ./.github/actions/update_readme.py  
+
+      - name: load to github
+        run: |
+          git config user.name "Automated Publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          # timestamp=$(date -u)
+          git commit -m ":robot: Automated update README: adding ${{ github.event.issue.title }}" || exit 0
+          git push
+
