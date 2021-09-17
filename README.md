@@ -35,4 +35,4 @@ Create a **New issue** in [Issues](https://github.com/oim3640/Projectinder/issue
 - Project ideas:
 - Anything else about you:
 
-Check out the [issue example](https://github.com/oim3640/Projectinder/issues/1).
+Check out the [issue example](https://github.com/oim3640/Projectinder/issues/1). **Notice**: Although this repository will be changed to private after semester, you should still avoid providing too much personal information (i.e. phone number, email) here. 
