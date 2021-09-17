@@ -11,10 +11,15 @@ Please **DO NOT** fork this repo.
 ## Student List
 Will be updated once you add or update your information.
 
-| Name (click for more info)                                                   | Currently looking for  teammate? |
-| :--------------------------------------------------------------------------- | :------------------------------: |
+| Name (click for more info)                                            | Currently looking for teammate? |
+| :-------------------------------------------------------------------- | :-----------------------------: |
+| [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)      |            Not sure             |
+| [Angel Hill](https://github.com/OIM3640/Projectinder/issues/3)        |               Yes               |
+| [Jonathan Cavazos](https://github.com/OIM3640/Projectinder/issues/4)  |
+| [Isabella Southard](https://github.com/OIM3640/Projectinder/issues/5) |               Yes               |
 
-*updated: 9/14*
+
+*updated: 9/16*
 
 ---
 
