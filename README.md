@@ -17,7 +17,8 @@ Will be updated once you add or update your information.
 | [Angel Hill](https://github.com/OIM3640/Projectinder/issues/3)        |               Yes               |
 | [Jonathan Cavazos](https://github.com/OIM3640/Projectinder/issues/4)  |
 | [Isabella Southard](https://github.com/OIM3640/Projectinder/issues/5) |               Yes               |
-| [Tingxuan Li](https://github.com/OIM3640/Projectinder/issues/6) |                              |
+| [Tingxuan Li](https://github.com/OIM3640/Projectinder/issues/6)       |                                 |
+| [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7)         |               Yes               |
 
 
 
