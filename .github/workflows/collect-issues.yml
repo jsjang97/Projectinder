@@ -11,12 +11,17 @@ jobs:
       - name: View issue information
         run: |
           echo "Issue title: ${{ github.event.issue.title }}"
-          echo "Issue body: ${{ github.event.issue.body }}"
-        
+          echo "Issue body: ${{ github.event.issue.body }}"    
+          echo "$(TZ=America/New_York date)"  
+               
         
       - name: Update Readme
-        run: python ./.github/actions/update_readme.py "${{ github.event.issue.title }}" "${{ github.event.issue.html_url }}" "${{ github.event.issue.body }}"
-#         run: python ./.github/actions/update_readme.py  
+        run: |
+          TZ=America/New_York date       
+          echo "$(date -u)"  
+          python ./.github/actions/update_readme.py "${{ github.event.issue.title }}" "${{ github.event.issue.html_url }}" "${ISSUE_BODY}" "$(TZ=America/New_York date)" 
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}  
 
       - name: load to github
         run: |

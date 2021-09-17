@@ -11,21 +11,22 @@ Please **DO NOT** fork this repo.
 ## Student List
 Will be updated once you add or update your information.
 
-| Name (click for more info)                                              | Currently looking for teammate? |
-| :---------------------------------------------------------------------- | :-----------------------------: |
-| [Michael Vanikiotis](https://github.com/OIM3640/Projectinder/issues/11) |               Yes               |
-| [Andrea Baumgartner](https://github.com/OIM3640/Projectinder/issues/10) |               Yes               |
-| [Ziyuan Zhu](https://github.com/OIM3640/Projectinder/issues/9)          |               Yes               |
-| [Brenden Smith](https://github.com/OIM3640/Projectinder/issues/8)       |               Yes               |
-| [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7)           |               Yes               |
-| [Tingxuan Li](https://github.com/OIM3640/Projectinder/issues/6)         |                                 |
-| [Isabella Southard](https://github.com/OIM3640/Projectinder/issues/5)   |               Yes               |
-| [Jonathan Cavazos](https://github.com/OIM3640/Projectinder/issues/4)    |
-| [Angel Hill](https://github.com/OIM3640/Projectinder/issues/3)          |               Yes               |
-| [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        |            Not sure             |
+| Name                                                                    | Teaming Preference                                                                 |
+| :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Michael Vanikiotis](https://github.com/OIM3640/Projectinder/issues/11) | No Preference                                                                      |
+| [Andrea Baumgartner](https://github.com/OIM3640/Projectinder/issues/10) | not too big                                                                        |
+| [Ziyuan Zhu](https://github.com/OIM3640/Projectinder/issues/9)          | I prefer to work with 1-2 other team members                                       |
+| [Brenden Smith](https://github.com/OIM3640/Projectinder/issues/8)       | Someone/people easy to contact and willing to put in fair share of work            |
+| [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7)           | Someone who is nice, tries, and answers their messages.                            |
+| [Tingxuan Li](https://github.com/OIM3640/Projectinder/issues/6)         | Chloe and I have already build the team.                                           |
+| [Isabella Southard](https://github.com/OIM3640/Projectinder/issues/5)   | I would like to work individually but am open to suggestions/critique from others. |
+| [Jonathan Cavazos](https://github.com/OIM3640/Projectinder/issues/4)    | Deon Body                                                                          |
+| [Angel Hill](https://github.com/OIM3640/Projectinder/issues/3)          | prefer working with a team                                                         |
+| [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
 *updated: 9/16*
+
 
 ---
 
