@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Vincentius Victor](https://github.com/OIM3640/Projectinder/issues/13) | Wilson Ciputra and I have made a team |
 | [Michael Vanikiotis](https://github.com/OIM3640/Projectinder/issues/11) | No Preference                                                                      |
 | [Andrea Baumgartner](https://github.com/OIM3640/Projectinder/issues/10) | not too big                                                                        |
 | [Ziyuan Zhu](https://github.com/OIM3640/Projectinder/issues/9)          | I prefer to work with 1-2 other team members                                       |
@@ -25,7 +26,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Fri Sep 17 19:13:55 EDT 2021*
+*updated: Fri Sep 17 20:44:02 EDT 2021*
 
 
 ---
