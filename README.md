@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Julia Garcia](https://github.com/OIM3640/Projectinder/issues/14) | I am on a team with Laura G. |
 | [Vincentius Victor](https://github.com/OIM3640/Projectinder/issues/13) | Wilson Ciputra and I have made a team |
 | [Michael Vanikiotis](https://github.com/OIM3640/Projectinder/issues/11) | No Preference                                                                      |
 | [Andrea Baumgartner](https://github.com/OIM3640/Projectinder/issues/10) | not too big                                                                        |
@@ -26,7 +27,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Fri Sep 17 20:44:02 EDT 2021*
+*updated: Sat Sep 18 10:27:42 EDT 2021*
 
 
 ---
