@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Wilson Ciputra](https://github.com/OIM3640/Projectinder/issues/16) | Vincentius Victor |
 | [Runze(Chloe) Ouyang](https://github.com/OIM3640/Projectinder/issues/15) | Tingxuan Li is my teammate. |
 | [Julia Garcia](https://github.com/OIM3640/Projectinder/issues/14) | I am on a team with Laura G. |
 | [Vincentius Victor](https://github.com/OIM3640/Projectinder/issues/13) | Wilson Ciputra and I have made a team |
@@ -28,7 +29,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Sat Sep 18 20:30:09 EDT 2021*
+*updated: Sat Sep 18 23:45:26 EDT 2021*
 
 
 ---
