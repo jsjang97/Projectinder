@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Pujit Mehrotra](https://github.com/OIM3640/Projectinder/issues/33) | No preference, I'm down to work with/help anyone |
 | [Nate Carpenter](https://github.com/OIM3640/Projectinder/issues/32) | |
 | [Ethan Yoo](https://github.com/OIM3640/Projectinder/issues/30) | Reid Chavez and open to have third member |
 | [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7) | working w Brenden |
@@ -47,7 +48,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Tue Sep 21 17:26:23 EDT 2021*
+*updated: Tue Sep 21 17:35:46 EDT 2021*
 
 
 ---
