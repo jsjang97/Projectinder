@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Joyce Lee](https://github.com/OIM3640/Projectinder/issues/7) | working w Brenden |
 | [Roger Lin](https://github.com/OIM3640/Projectinder/issues/29) | Working with Pujit Mehrotra, looking for another person in the team. If you respond to messages in a timely fashion and are willing to learn (Pujit has a lot of experience in Python, but he will not act as the main programmer of the team), we would love to have you join the team! |
 | [Deon Body](https://github.com/OIM3640/Projectinder/issues/28) | Jonathan Cavazos |
 | [Laura Ghouzi](https://github.com/OIM3640/Projectinder/issues/27) | Julia Garcia |
@@ -44,7 +45,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Tue Sep 21 16:41:32 EDT 2021*
+*updated: Tue Sep 21 16:43:43 EDT 2021*
 
 
 ---
