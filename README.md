@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Jasmine Zaw](https://github.com/OIM3640/Projectinder/issues/19) | I am on a team with Kaity and Trae. |
 | [Yusra Syed](https://github.com/OIM3640/Projectinder/issues/18) | |
 | [Han (Corinna) Weng](https://github.com/OIM3640/Projectinder/issues/17) | Currently is pairing up with Wendi Kan and Michael Sun |
 | [Wilson Ciputra](https://github.com/OIM3640/Projectinder/issues/16) | Vincentius Victor |
@@ -31,7 +32,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Mon Sep 20 22:28:11 EDT 2021*
+*updated: Mon Sep 20 23:45:18 EDT 2021*
 
 
 ---
