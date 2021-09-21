@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Han (Corinna) Weng](https://github.com/OIM3640/Projectinder/issues/17) | Currently is pairing up with Wendi Kan and Michael Sun |
 | [Wilson Ciputra](https://github.com/OIM3640/Projectinder/issues/16) | Vincentius Victor |
 | [Runze(Chloe) Ouyang](https://github.com/OIM3640/Projectinder/issues/15) | Tingxuan Li is my teammate. |
 | [Julia Garcia](https://github.com/OIM3640/Projectinder/issues/14) | I am on a team with Laura G. |
@@ -29,7 +30,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Sat Sep 18 23:45:26 EDT 2021*
+*updated: Mon Sep 20 22:20:52 EDT 2021*
 
 
 ---
