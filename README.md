@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Saanya Jhaveri](https://github.com/OIM3640/Projectinder/issues/26) | Working with Yusra and Faija! |
 | [Spencer Kusel](https://github.com/OIM3640/Projectinder/issues/25) | No Preference |
 | [Kaity Goodwin](https://github.com/OIM3640/Projectinder/issues/24) | I would like to be on a team with Jasmine and Trae |
 | [Kaity Goodwin](https://github.com/OIM3640/Projectinder/issues/24) | I would like to be on a team with Jasmine and Trae|
@@ -40,7 +41,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Tue Sep 21 16:04:22 EDT 2021*
+*updated: Tue Sep 21 16:06:57 EDT 2021*
 
 
 ---
