@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Sumer Sen](https://github.com/OIM3640/Projectinder/issues/20) | I am on a team with Krishna and Isha |
 | [Brenden Smith](https://github.com/OIM3640/Projectinder/issues/8) | Working with Joyce Lee |
 | [Jasmine Zaw](https://github.com/OIM3640/Projectinder/issues/19) | I am on a team with Kaity and Trae. |
 | [Yusra Syed](https://github.com/OIM3640/Projectinder/issues/18) | |
@@ -33,7 +34,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Tue Sep 21 12:45:21 EDT 2021*
+*updated: Tue Sep 21 12:56:48 EDT 2021*
 
 
 ---
