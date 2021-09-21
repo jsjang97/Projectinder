@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Deon Body](https://github.com/OIM3640/Projectinder/issues/28) | Jonathan Cavazos |
 | [Laura Ghouzi](https://github.com/OIM3640/Projectinder/issues/27) | Julia Garcia |
 | [Saanya Jhaveri](https://github.com/OIM3640/Projectinder/issues/26) | Working with Yusra and Faija! |
 | [Spencer Kusel](https://github.com/OIM3640/Projectinder/issues/25) | No Preference |
@@ -42,7 +43,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Tue Sep 21 16:07:22 EDT 2021*
+*updated: Tue Sep 21 16:15:42 EDT 2021*
 
 
 ---
