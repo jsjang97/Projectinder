@@ -13,6 +13,7 @@ Will be updated once you add or update your information.
 
 | Name                                                                    | Teaming Preference                                                                 |
 | :---------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| [Isha Jajoo](https://github.com/OIM3640/Projectinder/issues/22) | |
 | [Mark Fanelli](https://github.com/OIM3640/Projectinder/issues/21) | Working with Ziyuan Zhu but we would gladly have a third person to work with. |
 | [Sumer Sen](https://github.com/OIM3640/Projectinder/issues/20) | I am on a team with Krishna and Isha |
 | [Brenden Smith](https://github.com/OIM3640/Projectinder/issues/8) | Working with Joyce Lee |
@@ -35,7 +36,7 @@ Will be updated once you add or update your information.
 | [Brandon Chin](https://github.com/OIM3640/Projectinder/issues/2)        | No Preference                                                                      |
 
 
-*updated: Tue Sep 21 15:04:56 EDT 2021*
+*updated: Tue Sep 21 15:25:57 EDT 2021*
 
 
 ---
